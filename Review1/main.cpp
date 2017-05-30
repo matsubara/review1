@@ -6,6 +6,9 @@
 //  Copyright © 2017 Mauricio Matsubara. All rights reserved.
 //
 
+/* Create 2 integer variables. Assign a value to one of them and copy this variable to the other one
+*/
+
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
