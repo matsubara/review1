@@ -12,7 +12,11 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int i;
+    i=10;
+    int x;
+    x =i ;
+    
+    std::cout << x;
     return 0;
 }
